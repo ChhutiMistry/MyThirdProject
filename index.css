@@ -1,0 +1,205 @@
+.header{
+    background-color: black;
+    height: 50px;
+}
+
+#logo{
+    height: 25px;
+    width: 25px;
+}
+
+.headbut{
+    color: black;
+    background-color: grey;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.headname{
+    color: grey;
+    font-size: 15px;
+}
+
+.headcentre{
+    margin-left: auto;
+}
+
+#companyname{
+    background-color: #1a1a1b;
+    height: 60px;
+
+}
+
+#name{
+    color: aliceblue;
+    float: left;
+    margin-top: 0.8%;
+}
+
+#namesize{
+    font-size: 25px;
+}
+
+.button{
+    float: right;
+    margin-top: 1%;
+    background-color: white;
+    border-radius: 16px;
+    font-size: 11px;
+    font-weight: 460;
+}
+
+
+#eligibility{
+    background-color: #1d1d1f;
+    height: 60px;
+    text-align: center;
+    padding: 1%;
+    border-top-style: solid;
+    border-top-color: rgb(102, 102, 102);
+    border-top-width: 1px;
+}
+
+#free{
+    color: white;
+    font-size: 15px;
+}
+
+#freeelig{
+    text-decoration: none;
+}
+
+#back{
+    background-image: url("https://i.ibb.co/ZcVMTRk/Background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+#textback{
+    color: white;
+    font-size: 85px;
+    font-weight: bold;
+    padding-top: 5%;
+    margin-left: 10%;
+}
+
+.buttonback{
+    background-color: white;
+    border-radius: 40px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 25px;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+
+#watchback{
+    color: white;
+    font-size: 30px;
+}
+
+#watchimage{
+    height: 50px;
+    width: 50px;
+}
+
+#bottomback{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+#textthree{
+    background-color: black;
+    height: 800px;
+}
+
+#textth1{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    padding-top: 8%;
+    margin-left: 10%;
+}
+
+#textth2{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    padding-top: 3%;
+    margin-left: 10%;
+}
+
+#textth3{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    padding-top: 3%;
+    margin-left: 10%;
+}
+
+#package{
+    background-color: black;
+}
+
+.packbody1{
+    width: 100%;
+    color: white;
+    background-color: black;
+    margin-top: 2%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.packbody2{
+    width: 100%;
+    color: white;
+    background-color: black;
+    margin-top: 2%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.packbody3{
+    width: 100%;
+    color: white;
+    background-color: black;
+    margin-top: 2%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headpack{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.tagpack{
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.linkpack{
+    text-decoration: none;
+}
+
+.textpack{
+    color: grey;
+    font-size: 16px;
+}
+
+.buttonpack{
+    color: black;
+    background-color: white;
+    border-radius: 40px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 12%;
+}
